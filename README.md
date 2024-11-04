@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/im_ysmayyl" target="blank"><img src="https://img.shields.io/twitter/follow/im_ysmayyl?logo=twitter&style=for-the-badge" alt="im_ysmayyl" /></a> </p>
 
-- 🔭 I’m currently working on **HTML, CSS, JS**
+- 🔭 I’m currently working on **C#, C++, C+ JS**
 
-- 🌱 I’m currently learning **HTML, CSS, JS**
+- 🌱 I’m currently learning **C++, C+, C# JS**
 
 - 📫 How to reach me **ysmayylatagarryyew2003@gmail.com**
 
